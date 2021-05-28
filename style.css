@@ -1,1 +1,15 @@
+html body {
+  min-height: 100vh;
+}
 
+
+
+#google-logo-div {
+  position: relative;
+  top: 55px;
+}
+
+#google-logo {
+  display: block;
+  margin: auto;
+}
